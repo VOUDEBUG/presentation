@@ -32,7 +32,7 @@
   - [x] Ao carregar a página, buscar as tarefas (get para /tasks) e exibir na lista
   - [x] Form Nova Tarefa: Ao enviar uma nova tarefa, deve realizar um post para API (/tasks)
   - [x] Quando uma tarefa for adicionada, a lista de tarefas deve ser atualizada
-  - [ ] Quando uma tarefa for completada, deve realizar um put para API (tasks/ID_DA_TASK) alterando a chave completed para true
+  - [x] Quando uma tarefa for completada, deve realizar um put para API (tasks/ID_DA_TASK) alterando a chave completed para true
 ---
 # 🛠️ Ferramentas
 ![html](https://user-images.githubusercontent.com/61170238/164286081-7664fe9e-269b-46bd-adba-48fddd715335.png)
