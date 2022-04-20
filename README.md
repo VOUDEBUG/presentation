@@ -46,11 +46,14 @@
 * styles: Contem os arquivos com estilização CSS.
 ---
 
-# 🚩 Melhorias
+# 🚩 Melhorias feitas
  *Identificar campos inválidos com CSS (ex. borda vermelha)
- *Redirecionar o usuário para a página de tarefas (quando com sessão ativa na máquina)
- *Limitar a quantiade de caracteres nas entradas do usuário
+ 
+# 🚩 Melhorias propostas
+ *Redirecionar o usuário para a página de tarefas (quando com sessão ativa na máquina).
+ *Limitar a quantiade de caracteres nas entradas do usuário.
  *Separar funções utilizados com frequência para que possam ser reutilizadas.
+ *Remover alertas e mostrar avisos a cada operação.
  
  # Colaboradores 
  * 🧔 Bruno Rodrigues 
